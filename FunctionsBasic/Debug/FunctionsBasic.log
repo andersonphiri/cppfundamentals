@@ -1,0 +1,5 @@
+﻿  CopyConstructors.cpp
+  CustomInteger.cpp
+  Generating Code...
+C:\Users\user\source\repos\FirstProgram\FunctionsBasic\CustomInteger.cpp(47): warning C4172: returning address of local variable or temporary: temp
+  FunctionsBasic.vcxproj -> C:\Users\user\source\repos\FirstProgram\Debug\FunctionsBasic.exe

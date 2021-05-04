@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\source\repos\FirstProgram\FirstProgramEmpty\main.cpp(11,17): warning C4305: 'initializing': truncation from 'int' to 'bool'
+C:\Users\user\source\repos\FirstProgram\FirstProgramEmpty\main.cpp(26,6): warning C4101: 'arr': unreferenced local variable
+  FirstProgramEmpty.vcxproj -> C:\Users\user\source\repos\FirstProgram\Debug\FirstProgramEmpty.exe

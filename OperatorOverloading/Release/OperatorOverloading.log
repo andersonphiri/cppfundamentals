@@ -1,0 +1,8 @@
+﻿  Integer.cpp
+  main.cpp
+  Number.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OperatorOverloading.vcxproj -> C:\Users\user\source\repos\FirstProgram\Release\OperatorOverloading.exe
