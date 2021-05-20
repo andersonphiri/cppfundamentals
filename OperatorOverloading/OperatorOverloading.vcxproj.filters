@@ -21,9 +21,6 @@
     <ClCompile Include="Integer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Number.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="SmartPointers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -32,13 +29,13 @@
     <ClInclude Include="OperatorOverloading.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Integer.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Number.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="SmartPointers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Integer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

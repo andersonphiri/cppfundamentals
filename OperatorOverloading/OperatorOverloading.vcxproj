@@ -141,7 +141,6 @@
   <ItemGroup>
     <ClCompile Include="Integer.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Number.cpp" />
     <ClCompile Include="SmartPointers.cpp" />
   </ItemGroup>
   <ItemGroup>

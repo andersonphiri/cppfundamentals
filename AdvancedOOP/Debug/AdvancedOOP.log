@@ -1,6 +1,14 @@
-﻿  IOStream.cpp
+﻿  Account.cpp
+  BasicInheritance.cpp
+  Checking.cpp
   InputStream.cpp
+  IOStream.cpp
+  main.cpp
+C:\Users\user\source\repos\FirstProgram\AdvancedOOP\main.cpp(30,41): warning C4305: 'argument': truncation from 'double' to 'float'
   MultipeInheritanceDemo.cpp
   OutputStream.cpp
+  Savings.cpp
+  Stream.cpp
+  Transaction.cpp
   Generating Code...
   AdvancedOOP.vcxproj -> C:\Users\user\source\repos\FirstProgram\Debug\AdvancedOOP.exe

@@ -1,2 +1,9 @@
-﻿  WeakPointersFix.cpp
+﻿  Integer.cpp
+  main.cpp
+  SharedPointers.cpp
+  SmartPointers.cpp
+  WeakPointersFix.cpp
+  WeakPontersProblem.cpp
+  Generating Code...
+C:\Users\user\source\repos\FirstProgram\OperatorOverloading\Integer.cpp(66): warning C4172: returning address of local variable or temporary: temp
   SmartPointersDemo.vcxproj -> C:\Users\user\source\repos\FirstProgram\Debug\SmartPointersDemo.exe

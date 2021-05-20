@@ -1,5 +1,9 @@
-﻿  CopyConstructors.cpp
+﻿  Functions.cpp
+C:\Users\user\source\repos\FirstProgram\Pointers\Functions.cpp(66,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CopyConstructors.cpp
   CustomInteger.cpp
+  main.cpp
+  math.cpp
   Generating Code...
 C:\Users\user\source\repos\FirstProgram\FunctionsBasic\CustomInteger.cpp(47): warning C4172: returning address of local variable or temporary: temp
   FunctionsBasic.vcxproj -> C:\Users\user\source\repos\FirstProgram\Debug\FunctionsBasic.exe

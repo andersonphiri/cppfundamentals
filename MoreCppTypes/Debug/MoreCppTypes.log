@@ -1,4 +1,11 @@
-﻿  UnionsDemo.cpp
+﻿  ConstantExpressions.cpp
+C:\Users\user\source\repos\FirstProgram\MoreCppTypes\ConstantExpressions.cpp(20,6): warning C4101: 'arr': unreferenced local variable
+  Enums.cpp
+  InitializerList.cpp
+C:\Users\user\source\repos\FirstProgram\MoreCppTypes\InitializerList.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  StringsDemo.cpp
+  UnionsDemo.cpp
   VectorsDemo.cpp
   Generating Code...
   MoreCppTypes.vcxproj -> C:\Users\user\source\repos\FirstProgram\Debug\MoreCppTypes.exe

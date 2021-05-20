@@ -1,3 +1,2 @@
-﻿  Integer.cpp
-C:\Users\user\source\repos\FirstProgram\OperatorOverloading\Integer.cpp(66): warning C4172: returning address of local variable or temporary: temp
+﻿  main.cpp
   OperatorOverloading.vcxproj -> C:\Users\user\source\repos\FirstProgram\Debug\OperatorOverloading.exe
